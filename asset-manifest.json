@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactResturantWeb/static/css/main.c7b7da23.css",
+    "main.js": "/reactResturantWeb/static/js/main.2da6d641.js",
+    "static/js/787.091bb736.chunk.js": "/reactResturantWeb/static/js/787.091bb736.chunk.js",
+    "static/media/image5.jpg": "/reactResturantWeb/static/media/image5.52b47f1bfc62ef9f839e.jpg",
+    "static/media/image6.jpg": "/reactResturantWeb/static/media/image6.2f4e1ff4c9680bf2c81b.jpg",
+    "static/media/image8.jpg": "/reactResturantWeb/static/media/image8.b55b17bdd3ae67bafbc4.jpg",
+    "static/media/image4.jpg": "/reactResturantWeb/static/media/image4.1cf0b6731ea568432457.jpg",
+    "static/media/image7.jpg": "/reactResturantWeb/static/media/image7.2acedd4ac4b34a8a52ac.jpg",
+    "static/media/image10.jpg": "/reactResturantWeb/static/media/image10.e846a83c2d2dd3b9f8ac.jpg",
+    "static/media/logo.jpg": "/reactResturantWeb/static/media/logo.8318f966af67d3139b14.jpg",
+    "index.html": "/reactResturantWeb/index.html",
+    "main.c7b7da23.css.map": "/reactResturantWeb/static/css/main.c7b7da23.css.map",
+    "main.2da6d641.js.map": "/reactResturantWeb/static/js/main.2da6d641.js.map",
+    "787.091bb736.chunk.js.map": "/reactResturantWeb/static/js/787.091bb736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7b7da23.css",
+    "static/js/main.2da6d641.js"
+  ]
+}
